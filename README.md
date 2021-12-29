@@ -18,7 +18,7 @@ How to style Text widgets
 How to read and use Flutter Documentation
 
 ## App ScreenShot:
-https://user-images.githubusercontent.com/62378296/147641866-11de045a-ad05-4f59-8b7a-9222f3bd003c.png
+<img width="297" alt="Screen Shot 2021-12-29 at 12 21 12 AM" src="https://user-images.githubusercontent.com/62378296/147642185-8e7d8267-d6bd-4cf3-92de-205eb97eaa7f.png">
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 >
